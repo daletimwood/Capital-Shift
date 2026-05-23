@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Capital Shift — Podcast Series Outline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1a18;
+    --paper: #f5f0e8;
+    --cream: #ede8da;
+    --gold: #b8952a;
+    --gold-light: #d4b050;
+    --rust: #8b3a2a;
+    --slate: #4a5568;
+    --rule: #c8bfa8;
+    --episode-bg: #ffffff;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    line-height: 1.7;
+  }
+
+  /* MASTHEAD */
+  .masthead {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 60px 80px 50px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .masthead::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--gold), var(--gold-light), var(--gold));
+  }
+
+  .masthead-rule {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 20px;
+  }
+
+  .masthead h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(42px, 6vw, 72px);
+    font-weight: 700;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+  }
+
+  .masthead h1 em {
+    font-style: italic;
+    color: var(--gold-light);
+  }
+
+  .masthead-sub {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #a09888;
+    letter-spacing: 0.05em;
+    margin-top: 16px;
+    max-width: 600px;
+  }
+
+  .masthead-meta {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+    padding-top: 28px;
+    border-top: 1px solid #333;
+  }
+
+  .meta-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .meta-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--gold);
+  }
+
+  .meta-value {
+    font-size: 14px;
+    color: #d0c8b8;
+    font-weight: 400;
+  }
+
+  /* INTRO */
+  .intro-band {
+    background: var(--cream);
+    padding: 48px 80px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .intro-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 60px;
+    max-width: 1100px;
+  }
+
+  .intro-block h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 14px;
+    color: var(--ink);
+  }
+
+  .intro-block p {
+    font-size: 14px;
+    color: var(--slate);
+    line-height: 1.75;
+  }
+
+  .source-list {
+    list-style: none;
+    margin-top: 12px;
+  }
+
+  .source-list li {
+    font-family: 'DM Mono', monospace;
+    font-size: 11px;
+    color: var(--slate);
+    padding: 5px 0;
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    gap: 10px;
+  }
+
+  .source-list li::before {
+    content: '→';
+    color: var(--gold);
+    flex-shrink: 0;
+  }
+
+  /* HOW TO USE */
+  .usage-band {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 32px 80px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+  }
+
+  .usage-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--gold);
+    white-space: nowrap;
+  }
+
+  .usage-text {
+    font-size: 13px;
+    color: #c0b8a8;
+    line-height: 1.6;
+  }
+
+  .usage-text strong {
+    color: var(--paper);
+    font-weight: 700;
+  }
+
+  /* PILLAR HEADERS */
+  .pillar {
+    padding: 0 80px;
+    margin-top: 56px;
+    margin-bottom: 0;
+  }
+
+  .pillar-header {
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 32px;
+  }
+
+  .pillar-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 13px;
+    font-style: italic;
+    color: var(--gold);
+    letter-spacing: 0.05em;
+  }
+
+  .pillar-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--ink);
+  }
+
+  .pillar-desc {
+    font-size: 13px;
+    color: var(--slate);
+    max-width: 700px;
+    margin-left: auto;
+    font-style: italic;
+  }
+
+  /* EPISODE CARDS */
+  .episodes-grid {
+    padding: 0 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    margin-bottom: 8px;
+  }
+
+  .episode-card {
+    background: var(--episode-bg);
+    border: 1px solid var(--rule);
+    padding: 28px 30px 24px;
+    position: relative;
+    transition: box-shadow 0.2s ease;
+  }
+
+  .episode-card:hover {
+    box-shadow: 4px 4px 0 var(--gold);
+  }
+
+  .ep-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+
+  .ep-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--rule);
+    line-height: 1;
+    flex-shrink: 0;
+    width: 44px;
+  }
+
+  .ep-title-block {
+    flex: 1;
+  }
+
+  .ep-tag {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 5px;
+  }
+
+  .ep-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.3;
+    color: var(--ink);
+  }
+
+  .ep-premise {
+    font-size: 13px;
+    color: var(--slate);
+    line-height: 1.65;
+    margin-bottom: 16px;
+    padding-left: 60px;
+  }
+
+  .ep-divider {
+    height: 1px;
+    background: var(--rule);
+    margin: 16px 0;
+  }
+
+  .ep-section-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 8px;
+  }
+
+  .ep-beats {
+    list-style: none;
+    margin-bottom: 14px;
+  }
+
+  .ep-beats li {
+    font-size: 12.5px;
+    color: var(--ink);
+    padding: 4px 0 4px 16px;
+    position: relative;
+    line-height: 1.5;
+  }
+
+  .ep-beats li::before {
+    content: '–';
+    position: absolute;
+    left: 0;
+    color: var(--gold);
+  }
+
+  .ep-rigour {
+    background: var(--cream);
+    border-left: 3px solid var(--gold);
+    padding: 10px 14px;
+    margin-top: 14px;
+  }
+
+  .ep-rigour-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--rust);
+    margin-bottom: 4px;
+  }
+
+  .ep-rigour p {
+    font-size: 11.5px;
+    color: var(--slate);
+    line-height: 1.5;
+    font-style: italic;
+  }
+
+  .ep-hooks {
+    margin-top: 12px;
+  }
+
+  .ep-hook-pill {
+    display: inline-block;
+    font-family: 'DM Mono', monospace;
+    font-size: 9.5px;
+    background: var(--cream);
+    color: var(--slate);
+    padding: 3px 10px;
+    margin: 3px 3px 0 0;
+    border: 1px solid var(--rule);
+  }
+
+  /* EPISODE STATUS */
+  .ep-status-section {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 14px;
+    padding-top: 12px;
+    border-top: 1px solid var(--rule);
+  }
+
+  .ep-status-badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border: 1px solid;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .status-queued {
+    color: var(--slate);
+    border-color: var(--rule);
+    background: var(--cream);
+  }
+
+  .status-aired {
+    color: var(--gold);
+    border-color: var(--gold);
+    background: #fdf9ee;
+  }
+
+  .status-referenced {
+    color: var(--rust);
+    border-color: var(--rust);
+    background: #fdf8f6;
+  }
+
+  .ep-status-detail {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    color: var(--slate);
+    letter-spacing: 0.08em;
+    line-height: 1.4;
+  }
+
+  /* ORIGIN BADGE */
+  .origin-badge {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    font-family: 'DM Mono', monospace;
+    font-size: 8px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border: 1px solid;
+  }
+
+  .origin-kiyosaki {
+    color: var(--rust);
+    border-color: var(--rust);
+    background: #fdf8f6;
+  }
+
+  .origin-original {
+    color: var(--slate);
+    border-color: var(--rule);
+    background: var(--cream);
+  }
+
+  .origin-both {
+    color: var(--gold);
+    border-color: var(--gold);
+    background: #fdf9ee;
+  }
+
+  /* FOOTER */
+  .footer {
+    background: var(--ink);
+    color: #888;
+    padding: 40px 80px;
+    margin-top: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .footer-left {
+    font-family: 'DM Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    line-height: 2;
+  }
+
+  .footer-note {
+    font-size: 11px;
+    max-width: 400px;
+    line-height: 1.6;
+    color: #666;
+    font-style: italic;
+  }
+
+  .footer-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    color: var(--gold);
+    margin-bottom: 8px;
+  }
+
+  /* LEGEND */
+  .legend {
+    padding: 24px 80px;
+    background: var(--cream);
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    margin-top: 48px;
+  }
+
+  .legend-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-right: 8px;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    position: relative;
+    gap: 10px;
+    font-size: 11.5px;
+    color: var(--slate);
+  }
+
+  @media print {
+    .masthead, .usage-band, .footer { -webkit-print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<div class="masthead">
+  <div class="masthead-rule">Finance Podcast — Series Framework Document</div>
+  <h1>The Capital<br><em>Shift</em></h1>
+  <p class="masthead-sub">A structured series on the financial mindset shifts that change life trajectories — grounded in rigorous research, not self-help mythology.</p>
+  <div class="masthead-meta">
+    <div class="meta-item">
+      <span class="meta-label">Episodes</span>
+      <span class="meta-value">14 core modules</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Pillars</span>
+      <span class="meta-value">4 thematic arcs</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Format</span>
+      <span class="meta-value">Sequential or event-triggered</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Primary sources</span>
+      <span class="meta-value">Thaler · Bernstein · Granovetter · Kiyosaki</span>
+    </div>
+  </div>
+</div>
+
+<!-- INTRO -->
+<div class="intro-band">
+  <div class="intro-grid">
+    <div class="intro-block">
+      <h2>Series premise</h2>
+      <p>Most financial content teaches tactics. This series teaches frameworks — the mental models that determine whether tactics stick. Each episode is built around a specific cognitive or structural shift, grounded in academic or practitioner research, and made actionable for a UK audience. Episodes can run sequentially as a curriculum, or be pulled forward when a news event provides a natural hook.</p>
+    </div>
+    <div class="intro-block">
+      <h2>Primary intellectual sources</h2>
+      <ul class="source-list">
+        <li><strong>Thaler &amp; Benartzi</strong> — Save More Tomorrow; behavioural finance and inertia</li>
+        <li><strong>Granovetter</strong> — The Strength of Weak Ties (1973 &amp; 1983)</li>
+        <li><strong>William Bernstein</strong> — The Four Pillars of Investing</li>
+        <li><strong>Kiyosaki</strong> — Rich Dad, Poor Dad (frameworks, not specifics)</li>
+        <li><strong>Robert Putnam</strong> — Bowling Alone; social capital theory</li>
+        <li><strong>FCA Financial Lives survey</strong> — UK-grounded data</li>
+        <li><strong>Kahneman &amp; Tversky</strong> — Prospect Theory; loss aversion</li>
+        <li><strong>Morgan Housel</strong> — The Psychology of Money</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- HOW TO USE -->
+<div class="usage-band">
+  <span class="usage-label">How to use this document</span>
+  <p class="usage-text">Run episodes <strong>sequentially</strong> as a curriculum, starting with Pillar I. Alternatively, when a current event provides a hook — a Budget, rate change, market correction, pension reform — <strong>pull the relevant episode forward</strong> and use the "Current event hooks" tags as your bridge into the core lesson. Each episode is self-contained but cross-references adjacent modules.</p>
+</div>
+
+<!-- LEGEND -->
+<div class="legend">
+  <span class="legend-label">Episode origin</span>
+  <div class="legend-item">
+    <span class="origin-badge origin-original">Original</span>
+    Derived from the NewTraderU article, refined
+  </div>
+  <div class="legend-item">
+    <span class="origin-badge origin-kiyosaki">Kiyosaki</span>
+    Sourced from Rich Dad, Poor Dad frameworks
+  </div>
+  <div class="legend-item">
+    <span class="origin-badge origin-both">Synthesised</span>
+    Both sources, merged and strengthened
+  </div>
+</div>
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PILLAR I -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="pillar">
+  <div class="pillar-header">
+    <span class="pillar-number">Pillar I</span>
+    <span class="pillar-title">The Language of Money</span>
+    <span class="pillar-desc">You cannot make good decisions with the wrong vocabulary. These episodes establish the foundational literacy everything else depends on.</span>
+  </div>
+</div>
+
+<div class="episodes-grid">
+
+  <!-- EP 1 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-kiyosaki">Kiyosaki</span>
+    <div class="ep-header">
+      <div class="ep-number">01</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Financial Literacy · Foundation</div>
+        <div class="ep-title">What Is an Asset? Most People Have It Backwards</div>
+      </div>
+    </div>
+    <p class="ep-premise">Kiyosaki's most enduring contribution: an asset puts money in your pocket; a liability takes it out. Most people call their car and lifestyle "assets." This episode redraws the map.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The accounting definition vs. the cashflow definition — where they agree and where they diverge</li>
+      <li>Why your primary residence sits in an ambiguous middle ground (builds equity, but costs money monthly)</li>
+      <li>Mapping listeners' own "balance sheets" — the honest version</li>
+      <li>UK-specific: pension as the most tax-efficient asset most people ignore</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Kiyosaki's cashflow definition is directionally correct but departs from GAAP accounting. Anchor with Bernstein's <em>Four Pillars</em> on distinguishing income-generating from appreciating assets, and note the difference matters for strategy.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">House price data</span>
+      <span class="ep-hook-pill">Consumer credit figures</span>
+      <span class="ep-hook-pill">Car finance scandal</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 2 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-both">Synthesised</span>
+    <div class="ep-header">
+      <div class="ep-number">02</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Behavioural Finance · Foundation</div>
+        <div class="ep-title">The Rat Race Is Real — and Salary Won't Save You</div>
+      </div>
+    </div>
+    <p class="ep-premise">Why income growth alone doesn't build wealth. The treadmill of lifestyle inflation means most people never escape trading time for money, regardless of what they earn. The cashflow quadrant as a navigation tool.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>Kiyosaki's cashflow quadrant: Employee → Self-employed → Business owner → Investor</li>
+      <li>Why moving across the quadrant is the goal — and pension investing gets you to the I quadrant sooner than you think</li>
+      <li>The lifestyle inflation trap: Kahneman's hedonic adaptation as the mechanism</li>
+      <li>UK data: FCA Financial Lives — percentage of high earners with negligible savings</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Kahneman &amp; Tversky's hedonic adaptation; Morgan Housel's <em>Psychology of Money</em> on the goalpost that keeps moving. The quadrant is Kiyosaki's framework but the mechanism is well-supported behavioural science.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Wage growth data</span>
+      <span class="ep-hook-pill">Cost of living index</span>
+      <span class="ep-hook-pill">Redundancy announcements</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+</div><!-- /episodes-grid -->
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PILLAR II -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="pillar">
+  <div class="pillar-header">
+    <span class="pillar-number">Pillar II</span>
+    <span class="pillar-title">Building the Asset Column</span>
+    <span class="pillar-desc">The practical architecture of wealth — what to own, how to structure it, and the behavioural traps that sabotage good intentions.</span>
+  </div>
+</div>
+
+<div class="episodes-grid">
+
+  <!-- EP 3 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-kiyosaki">Kiyosaki</span>
+    <div class="ep-header">
+      <div class="ep-number">03</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Investing · Savings Behaviour</div>
+        <div class="ep-title">Pay Yourself First — The One Rule That Beats Willpower</div>
+      </div>
+    </div>
+    <p class="ep-premise">Kiyosaki's instruction to save and invest before paying expenses, not from whatever's left. Turns out the behavioural finance evidence is emphatic: automation defeats intention every time.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>Why "I'll save what's left" always fails — the behavioural mechanism (present bias)</li>
+      <li>Thaler &amp; Benartzi's <em>Save More Tomorrow</em>: the 3–4% savings rate improvement from automation alone</li>
+      <li>UK levers: pension auto-enrolment, standing orders on payday, S&S ISA direct debits</li>
+      <li>The employer match as the single best guaranteed return available to employed people</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Thaler &amp; Benartzi (2004), <em>Save More Tomorrow</em> — empirical evidence that automatic escalation of savings rates outperforms willpower-based approaches. Nobel-grade behavioural economics applied directly.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Auto-enrolment threshold changes</span>
+      <span class="ep-hook-pill">Pension reform news</span>
+      <span class="ep-hook-pill">NS&amp;I rate changes</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 4 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-both">Synthesised</span>
+    <div class="ep-header">
+      <div class="ep-number">04</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Investing · Passive Income</div>
+        <div class="ep-title">Wealth Built While You Sleep — What That Actually Means</div>
+      </div>
+    </div>
+    <p class="ep-premise">"Passive income" has become a content-industry scam phrase. This episode strips it back to what it actually means for most people: scalability through ownership, not side hustles — and why index investing is the most accessible version available.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The spectrum: employment → dividends → rental income → business equity</li>
+      <li>Why compound interest is the only genuine "while you sleep" mechanism available to most people</li>
+      <li>Bernstein's case for low-cost index funds vs. the active management myth</li>
+      <li>The real barrier: starting, not the strategy — inertia as the enemy</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Bernstein's <em>Four Pillars of Investing</em> on the mathematics of compounding and the evidence against active management. Vanguard's SPIVA data on fund manager underperformance as supporting evidence.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Market correction</span>
+      <span class="ep-hook-pill">ISA season (April)</span>
+      <span class="ep-hook-pill">Interest rate decision</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 5 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">05</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Strategy · Mind Your Own Business</div>
+        <div class="ep-title">Your Employer Builds Their Asset Column. Who Builds Yours?</div>
+      </div>
+    </div>
+    <p class="ep-premise">Kiyosaki's "mind your own business" reframed for an employed audience: your employer's success accrues to shareholders, not you. Building a parallel asset column during employment is the discipline the wealthy practice and the employed rarely do.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The distinction between your job (income) and your business (asset column)</li>
+      <li>What "owning a piece of the upside" looks like for non-business-owners: shares, equity, property</li>
+      <li>Employee share schemes — systematically underused in the UK</li>
+      <li>When to consider a Ltd structure for side income — tax and complexity trade-off</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Kiyosaki's framework, substantiated by HMRC data on employee share scheme take-up rates and the IFS on wealth accumulation patterns by employment status.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Layoffs / restructuring news</span>
+      <span class="ep-hook-pill">Gig economy ruling</span>
+      <span class="ep-hook-pill">Equity market IPO</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 6 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">06</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Debt · Leverage</div>
+        <div class="ep-title">Debt as a Tool — and Why That Idea Has a Body Count</div>
+      </div>
+    </div>
+    <p class="ep-premise">Strategic leverage is a real wealth-building mechanism. It also destroyed millions of households in 2008 and again when UK rates rose from 0.1% to 5.25%. This episode teaches the principle honestly, with the risk caveat it always deserves.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>Good debt vs. bad debt: the return vs. cost of borrowing test</li>
+      <li>Mortgage as leverage — why offset mortgages change the calculus</li>
+      <li>The 2022–23 rate cycle as a case study in leverage risk for landlords</li>
+      <li>The psychological dimension: Kahneman's loss aversion and why leverage feels worse going down</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Prospect Theory (Kahneman &amp; Tversky 1979) on asymmetric pain of losses. UK Finance and HMRC data on BTL landlord exits 2022–24. Bernstein on risk capacity vs. risk tolerance.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Bank of England rate decision</span>
+      <span class="ep-hook-pill">Mortgage arrears data</span>
+      <span class="ep-hook-pill">BTL landlord exits</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+</div><!-- /episodes-grid -->
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PILLAR III -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="pillar">
+  <div class="pillar-header">
+    <span class="pillar-number">Pillar III</span>
+    <span class="pillar-title">The System Around You</span>
+    <span class="pillar-desc">Individual decisions exist within systems — tax, networks, negotiation, legal structures. Understanding the system is how the wealthy keep more of what they earn.</span>
+  </div>
+</div>
+
+<div class="episodes-grid">
+
+  <!-- EP 7 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-kiyosaki">Kiyosaki</span>
+    <div class="ep-header">
+      <div class="ep-number">07</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Tax · Legal Structures</div>
+        <div class="ep-title">Understand the Tax System or Pay the Maximum</div>
+      </div>
+    </div>
+    <p class="ep-premise">The single biggest gap in the original article — and one of Kiyosaki's sharpest points. The tax code is not neutral. It systematically rewards ownership, investment, and structured income over employment. Most people never look at it.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The four legal tax reduction levers available to UK individuals: pension contributions, ISA wrapper, CGT allowance, employment structure</li>
+      <li>How a £60k earner can legally reduce their effective tax rate substantially via pension relief</li>
+      <li>Ltd company for side income: when it crosses the threshold of being worth the complexity</li>
+      <li>Inheritance tax planning as the final frontier most people leave too late</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>HMRC tax gap data; IFS research on effective tax rates by income source (employment vs. capital). Note: always recommend professional advice for implementation — this episode frames the landscape, not the specifics.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Budget / Autumn Statement</span>
+      <span class="ep-hook-pill">CGT or IHT changes</span>
+      <span class="ep-hook-pill">Pension tax relief reform rumours</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 8 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">08</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Social Capital · Networks</div>
+        <div class="ep-title">It's Not Who You Know — It's the Ties You Don't Know You're Missing</div>
+      </div>
+    </div>
+    <p class="ep-premise">The networking lesson, properly grounded. Granovetter's research shows the crucial distinction isn't between networked and not-networked — it's between strong ties (family, close friends) and weak ties (acquaintances, cross-industry contacts). The latter drive economic mobility.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>Granovetter's 1973 finding: job opportunities come disproportionately from weak ties, not strong ones</li>
+      <li>Why working-class networks are often strong but homogeneous — high solidarity, low cross-class reach</li>
+      <li>How to intentionally build weak ties without feeling transactional</li>
+      <li>The financial value of a network: research on salary premiums for well-connected professionals</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Granovetter, <em>The Strength of Weak Ties</em> (1973; 1983 follow-up). Putnam, <em>Bowling Alone</em> on bridging vs. bonding social capital. Recent LinkedIn Economic Graph research on cross-class connections and earnings.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Graduate employment data</span>
+      <span class="ep-hook-pill">Social mobility report</span>
+      <span class="ep-hook-pill">Recruitment market shifts</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 9 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">09</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Negotiation · Earnings</div>
+        <div class="ep-title">Everything Is Negotiable — And the Gap Compounds</div>
+      </div>
+    </div>
+    <p class="ep-premise">Negotiation isn't a confrontation skill — it's a financial one. A single salary negotiation left on the table doesn't just cost you this year. It costs you every year the raise compounds forward. The gap between those who ask and those who don't is enormous over a career.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The compound cost of a single missed salary negotiation — modelled over 20 years</li>
+      <li>UK-specific: mortgage affordability linked to salary, multiplying the stakes</li>
+      <li>Negotiation in professional fees, insurance renewal, mortgage rates — the untaught habits</li>
+      <li>The gender and class dimensions: who negotiates, who doesn't, and why</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Linda Babcock &amp; Sara Laschever, <em>Women Don't Ask</em> — broadens to class dynamics. Research on the career earnings gap attributable to negotiation behaviour. CIPD salary benchmarking data for UK context.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Salary survey season</span>
+      <span class="ep-hook-pill">Wage growth data</span>
+      <span class="ep-hook-pill">Mortgage market competition</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 10 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">10</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Skills · Earnings Power</div>
+        <div class="ep-title">Work to Learn, Not to Earn — Past the Competence Threshold</div>
+      </div>
+    </div>
+    <p class="ep-premise">Kiyosaki's "work to learn" and the article's "soft skills" lesson, synthesised. Past a competence threshold in most fields, the differentiating skills are relational and communicative. But the threshold varies enormously — and for some people, technical excellence still is the strategy.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The competence threshold model: where technical mastery stops being the differentiator</li>
+      <li>Kiyosaki's case for acquiring skills over salary in your 20s and early 30s</li>
+      <li>The ROI on professional qualifications vs. soft skills training — what the data shows</li>
+      <li>When technical excellence remains the strategy: surgery, software, quantitative finance</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Cal Newport's <em>So Good They Can't Ignore You</em> on career capital. CIPD research on the earnings premium for leadership skills. HBR meta-analysis on soft skills and career progression rates.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">AI displacing job categories</span>
+      <span class="ep-hook-pill">Graduate premium data</span>
+      <span class="ep-hook-pill">Skills shortage reports</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+</div><!-- /episodes-grid -->
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- PILLAR IV -->
+<!-- ═══════════════════════════════════════════ -->
+<div class="pillar">
+  <div class="pillar-header">
+    <span class="pillar-number">Pillar IV</span>
+    <span class="pillar-title">The Long Game</span>
+    <span class="pillar-desc">The behavioural and structural conditions that make sustained wealth-building possible — time, health, risk, and the psychology of failure.</span>
+  </div>
+</div>
+
+<div class="episodes-grid">
+
+  <!-- EP 11 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">11</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Human Capital · Insurance</div>
+        <div class="ep-title">Your Health Is on the Balance Sheet — Protect It Like an Asset</div>
+      </div>
+    </div>
+    <p class="ep-premise">Reframing health from a lifestyle choice to a financial one. The human capital balance sheet: your future earning capacity has a present value — and most people leave it completely uninsured. The financial cost of incapacity is the untold story.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>Human capital as an asset class: how to calculate its approximate present value</li>
+      <li>The UK protection gap: what proportion of earners have no income protection cover</li>
+      <li>Income protection, critical illness, and life cover — what each actually does</li>
+      <li>The self-employed blind spot: statutory sick pay doesn't apply to you</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Association of British Insurers protection gap data. Gary Becker's human capital theory. Swiss Re and Munich Re actuarial data on income disruption from illness in working-age adults.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">NHS waiting list data</span>
+      <span class="ep-hook-pill">Long COVID economic impact</span>
+      <span class="ep-hook-pill">Sick pay reform news</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 12 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">12</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Time · Opportunity Cost</div>
+        <div class="ep-title">The Cost of Financial Inattention</div>
+      </div>
+    </div>
+    <p class="ep-premise">The "strategic stillness" lesson, properly reframed. Not about meditation — about the measurable financial cost of not reviewing your mortgage, not adjusting your pension allocation, not shopping your insurance. Inattention has a price tag.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>What a Standard Variable Rate mortgage costs vs. best available fix — the inattention premium</li>
+      <li>Default pension fund allocation: what "leaving it in the default" has cost the average UK worker</li>
+      <li>Insurance loyalty penalty: the FCA's own data on long-standing vs. new customer pricing</li>
+      <li>Building a "financial review calendar" — the minimum viable attention system</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>FCA Consumer Duty research on the loyalty penalty (2023). The Pensions Regulator data on default fund performance. Which? mortgage switching research. Behavioural economics of default effects (Thaler).</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Mortgage rate shift</span>
+      <span class="ep-hook-pill">FCA Consumer Duty ruling</span>
+      <span class="ep-hook-pill">Pension dashboard launch</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 13 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-original">Original</span>
+    <div class="ep-header">
+      <div class="ep-number">13</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Risk · Resilience</div>
+        <div class="ep-title">Risk Management Is What Makes Risk-Taking Rational</div>
+      </div>
+    </div>
+    <p class="ep-premise">The "fail fast" lesson, honestly told. The reason upper-class people can take calculated risks is structural — they have buffers. This episode shows how to build those buffers deliberately, so that experimentation becomes rational rather than reckless.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>The emergency fund as an options contract — it buys you the right to take risk without ruin</li>
+      <li>Bernstein's distinction between risk tolerance (psychological) and risk capacity (financial)</li>
+      <li>The sequence of building buffers: emergency fund → income protection → then investment risk</li>
+      <li>Why "fail fast" advice without structural context is incomplete and occasionally harmful</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Bernstein's <em>Four Pillars</em> on risk capacity. Kahneman's prospect theory on why losses loom larger than equivalent gains — the asymmetric psychology of downside. FCA data on financial resilience across income deciles.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Insolvency / bankruptcy statistics</span>
+      <span class="ep-hook-pill">SME failure rate data</span>
+      <span class="ep-hook-pill">Market volatility spike</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+  <!-- EP 14 -->
+  <div class="episode-card">
+    <span class="origin-badge origin-both">Synthesised</span>
+    <div class="ep-header">
+      <div class="ep-number">14</div>
+      <div class="ep-title-block">
+        <div class="ep-tag">Mindset · Series Synthesis</div>
+        <div class="ep-title">The Information Gap — It Was Never an Ability Gap</div>
+      </div>
+    </div>
+    <p class="ep-premise">The synthesis episode. The gap between classes is primarily an information and structural gap, not a talent gap. This episode names what the series has done — and points forward to where the listener takes it from here.</p>
+    <div class="ep-divider"></div>
+    <div class="ep-section-label">Episode beats</div>
+    <ul class="ep-beats">
+      <li>Revisiting the original premise: what did "upper class" actually mean throughout this series?</li>
+      <li>The five most actionable single steps from across the 14 episodes</li>
+      <li>Kiyosaki's five obstacles (fear, cynicism, laziness, bad habits, arrogance) as the psychological checklist</li>
+      <li>Morgan Housel: "Doing well with money has little to do with how smart you are and a lot to do with how you behave"</li>
+    </ul>
+    <div class="ep-rigour">
+      <div class="ep-rigour-label">Intellectual grounding</div>
+      <p>Synthesises the full series bibliography. Closes with Housel's <em>Psychology of Money</em> as the unifying framework: behaviour over intelligence, consistency over brilliance, time over timing.</p>
+    </div>
+    <div class="ep-hooks">
+      <div class="ep-section-label">Current event hooks</div>
+      <span class="ep-hook-pill">Year-end / January reset</span>
+      <span class="ep-hook-pill">Social mobility report</span>
+      <span class="ep-hook-pill">Financial wellbeing survey</span>
+    </div>
+    <div class="ep-status-section">
+      <span class="ep-status-badge status-queued">Queued</span>
+      <span class="ep-status-detail">Not yet aired</span>
+    </div>
+  </div>
+
+</div><!-- /episodes-grid -->
+
+
+<!-- FOOTER -->
+<div class="footer">
+  <div>
+    <div class="footer-title">The Capital Shift</div>
+    <div class="footer-left">
+      FINANCE PODCAST SERIES FRAMEWORK<br>
+      14 EPISODES · 4 PILLARS<br>
+      GENERATED MAY 2026
+    </div>
+  </div>
+  <div class="footer-note">
+    Sources: Thaler &amp; Benartzi (2004) · Granovetter (1973, 1983) · Bernstein, <em>Four Pillars of Investing</em> · Kahneman &amp; Tversky (1979) · Putnam, <em>Bowling Alone</em> · Kiyosaki, <em>Rich Dad Poor Dad</em> (frameworks only) · Morgan Housel, <em>The Psychology of Money</em> · FCA Financial Lives Survey · IFS wealth distribution research. Always recommend professional financial advice for implementation.
+  </div>
+</div>
+
+</body>
+</html>
