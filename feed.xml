@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — June 17, 2026</title>
+      <description>Daily finance digest</description>
+      <pubDate>Wed, 17 Jun 2026 07:51:59 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-06-17</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-17.mp3" type="audio/mpeg" length="2982096"/>
+    </item>
+    <item>
       <title>Finance Digest — June 16, 2026</title>
       <description>Daily finance digest</description>
       <pubDate>Tue, 16 Jun 2026 07:52:39 +0100</pubDate>
