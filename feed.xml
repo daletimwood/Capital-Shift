@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Sunday, June 28, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 08:14:51 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-06-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-28.mp3" type="audio/mpeg" length="3357216"/>
+    </item>
+    <item>
       <title>Finance Digest — Saturday, June 27, 2026</title>
       <description>Covering: Institute for Fiscal Studies &lt;events@news.ifs.org.uk&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, ForbesBLK &lt;forbes@email.forbes.com&gt;</description>
       <pubDate>Sat, 27 Jun 2026 08:11:28 +0100</pubDate>
