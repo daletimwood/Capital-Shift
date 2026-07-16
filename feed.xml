@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Thursday, July 16, 2026</title>
+      <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | InnovationRx" &lt;innovationrx@email.forbes.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 10:54:34 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-16</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-16.m4a" type="audio/mp4" length="2650041"/>
+    </item>
+    <item>
       <title>Finance Digest — Wednesday, July 15, 2026</title>
       <description>Covering: John Authers &lt;noreply@news.bloomberg.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Wed, 15 Jul 2026 09:13:06 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 17 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">finance-2026-05-17</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-17.mp3" type="audio/mpeg" length="5640624"/>
-    </item>
-    <item>
-      <title>Finance Digest — Saturday, May 16, 2026</title>
-      <description>Finance episode for Saturday, 16 May 2026</description>
-      <pubDate>Sat, 16 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">finance-2026-05-16</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-16.mp3" type="audio/mpeg" length="7075440"/>
     </item>
   </channel>
 </rss>
