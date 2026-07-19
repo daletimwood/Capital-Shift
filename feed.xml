@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Sunday, July 19, 2026</title>
+      <description>Covering: "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:50:44 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-19</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-19.m4a" type="audio/mp4" length="2318921"/>
+    </item>
+    <item>
       <title>Finance Digest — Saturday, July 18, 2026</title>
       <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, ForbesBLK &lt;forbes@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Sat, 18 Jul 2026 07:06:42 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 20 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">finance-2026-05-20</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-20.mp3" type="audio/mpeg" length="6496992"/>
-    </item>
-    <item>
-      <title>Finance Digest — Tuesday, May 19, 2026</title>
-      <description>Finance episode for Tuesday, 19 May 2026</description>
-      <pubDate>Tue, 19 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">finance-2026-05-19</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-19.mp3" type="audio/mpeg" length="6961104"/>
     </item>
   </channel>
 </rss>
