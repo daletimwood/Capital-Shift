@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Monday, July 20, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 07:02:24 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-20</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-20.m4a" type="audio/mp4" length="2392352"/>
+    </item>
+    <item>
       <title>Finance Digest — Sunday, July 19, 2026</title>
       <description>Covering: "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Sun, 19 Jul 2026 06:50:44 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 21 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">finance-2026-05-21</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-21.mp3" type="audio/mpeg" length="6962544"/>
-    </item>
-    <item>
-      <title>Finance Digest — Wednesday, May 20, 2026</title>
-      <description>Finance episode for Wednesday, 20 May 2026</description>
-      <pubDate>Wed, 20 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">finance-2026-05-20</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-20.mp3" type="audio/mpeg" length="6496992"/>
     </item>
   </channel>
 </rss>
