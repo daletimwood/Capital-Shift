@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Thursday, July 23, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Forbes | InnovationRx" &lt;innovationrx@email.forbes.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, "Forbes | CMO" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 07:13:18 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-23</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-23.m4a" type="audio/mp4" length="4792057"/>
+    </item>
+    <item>
       <title>Finance Digest — Wednesday, July 22, 2026</title>
       <description>Covering: Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, "Forbes | The Prompt" &lt;forbes@email.forbes.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Forbes | CFO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Wendy Rockwell from the IU view  &lt;theinternationalunion@substack.com&gt;</description>
       <pubDate>Wed, 22 Jul 2026 07:14:32 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 24 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">finance-2026-05-24</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-24.mp3" type="audio/mpeg" length="6789888"/>
-    </item>
-    <item>
-      <title>Finance Digest — Saturday, May 23, 2026</title>
-      <description>Finance episode for Saturday, 23 May 2026</description>
-      <pubDate>Sat, 23 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">finance-2026-05-23</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-23.mp3" type="audio/mpeg" length="8589600"/>
     </item>
   </channel>
 </rss>
