@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Tuesday, July 28, 2026</title>
+      <description>Covering: "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, "Forbes | CFO" &lt;forbes@email.forbes.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 21:43:21 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-28.m4a" type="audio/mp4" length="5125269"/>
+    </item>
+    <item>
       <title>Finance Digest — Monday, July 27, 2026</title>
       <description>Covering: Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Mon, 27 Jul 2026 07:05:46 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 29 May 2026 07:00:00 +0100</pubDate>
       <guid isPermaLink="false">finance-2026-05-29</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-29.mp3" type="audio/mpeg" length="7138368"/>
-    </item>
-    <item>
-      <title>Finance Digest — Thursday, May 28, 2026</title>
-      <description>Finance episode for Thursday, 28 May 2026</description>
-      <pubDate>Thu, 28 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">finance-2026-05-28</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-28.mp3" type="audio/mpeg" length="6228720"/>
     </item>
   </channel>
 </rss>
