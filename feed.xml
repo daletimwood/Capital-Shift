@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Thursday, July 30, 2026</title>
+      <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, "Forbes | InnovationRx" &lt;innovationrx@email.forbes.com&gt;, The Daily Renter &lt;dailyrenter@substack.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Collaborative Fund &lt;collabfund@substack.com&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 07:18:26 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-30.m4a" type="audio/mp4" length="2835133"/>
+    </item>
+    <item>
       <title>Finance Digest — Wednesday, July 29, 2026</title>
       <description>Covering: John Authers &lt;noreply@news.bloomberg.com&gt;, "Forbes | The Prompt" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Wed, 29 Jul 2026 07:04:40 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 31 May 2026 20:49:22 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-05-31</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-31.mp3" type="audio/mpeg" length="1601136"/>
-    </item>
-    <item>
-      <title>Finance Digest — Saturday, May 30, 2026</title>
-      <description>Finance episode for Saturday, 30 May 2026</description>
-      <pubDate>Sat, 30 May 2026 07:00:00 +0100</pubDate>
-      <guid isPermaLink="false">finance-2026-05-30</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-30.mp3" type="audio/mpeg" length="5047488"/>
     </item>
   </channel>
 </rss>
