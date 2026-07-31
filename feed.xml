@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Friday, July 31, 2026</title>
+      <description>Covering: "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, ForbesWomen &lt;women@email.forbes.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Baillie Gifford &lt;James.Budden@bailliegifford.info&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 07:14:17 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-07-31</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-31.m4a" type="audio/mp4" length="3784354"/>
+    </item>
+    <item>
       <title>Finance Digest — Thursday, July 30, 2026</title>
       <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, "Forbes | InnovationRx" &lt;innovationrx@email.forbes.com&gt;, The Daily Renter &lt;dailyrenter@substack.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Collaborative Fund &lt;collabfund@substack.com&gt;</description>
       <pubDate>Thu, 30 Jul 2026 07:18:26 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 01 Jun 2026 12:01:09 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-01</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-01.mp3" type="audio/mpeg" length="1188000"/>
-    </item>
-    <item>
-      <title>Finance Digest — Sunday, May 31, 2026</title>
-      <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | How To Earn Bitcoin" &lt;forbes@email.forbes.com&gt;, Hiive &lt;noreply@mail.hiive.com&gt;</description>
-      <pubDate>Sun, 31 May 2026 20:49:22 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-05-31</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-05-31.mp3" type="audio/mpeg" length="1601136"/>
     </item>
   </channel>
 </rss>
