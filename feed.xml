@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Sunday, August 2, 2026</title>
+      <description>Covering: "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Sun, 02 Aug 2026 18:29:25 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-02</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-02.m4a" type="audio/mp4" length="4325103"/>
+    </item>
+    <item>
       <title>Finance Digest — Saturday, August 1, 2026</title>
       <description>Covering: Business Insider &lt;subscriptions@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, ForbesBLK &lt;forbes@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;</description>
       <pubDate>Sat, 01 Aug 2026 07:12:33 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 03 Jun 2026 07:34:12 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-03</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-03.mp3" type="audio/mpeg" length="3769776"/>
-    </item>
-    <item>
-      <title>Finance Digest — 2026-06-02</title>
-      <description>Daily finance digest</description>
-      <pubDate>Tue, 02 Jun 2026 09:01:31 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-02</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-02.mp3" type="audio/mpeg" length="4199616"/>
     </item>
   </channel>
 </rss>
