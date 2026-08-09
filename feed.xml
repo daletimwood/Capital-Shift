@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Sunday, August 9, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 06:55:54 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-09</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-09.m4a" type="audio/mp4" length="5083363"/>
+    </item>
+    <item>
       <title>Finance Digest — Saturday, August 8, 2026</title>
       <description>Covering: ForbesBLK &lt;forbes@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Sat, 08 Aug 2026 07:09:12 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 06 Jun 2026 08:28:43 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-06</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-06.mp3" type="audio/mpeg" length="3396096"/>
-    </item>
-    <item>
-      <title>Finance Digest — Friday, June 5, 2026</title>
-      <description>Daily finance digest</description>
-      <pubDate>Fri, 05 Jun 2026 08:00:22 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-05</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-05.mp3" type="audio/mpeg" length="3545712"/>
     </item>
   </channel>
 </rss>
