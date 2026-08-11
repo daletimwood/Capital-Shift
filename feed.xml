@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Tuesday, August 11, 2026</title>
+      <description>Covering: "Forbes | Current Climate" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 07:18:16 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-11</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-11.m4a" type="audio/mp4" length="4550336"/>
+    </item>
+    <item>
       <title>Finance Digest — Monday, August 10, 2026</title>
       <description>Covering: John Authers &lt;noreply@news.bloomberg.com&gt;, Colin Donald &lt;Colin.Donald@bailliegifford.info&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;</description>
       <pubDate>Mon, 10 Aug 2026 07:07:04 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 08 Jun 2026 08:13:16 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-08</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-08.mp3" type="audio/mpeg" length="3518496"/>
-    </item>
-    <item>
-      <title>Finance Digest — June 7, 2026</title>
-      <description>Daily finance digest</description>
-      <pubDate>Sun, 07 Jun 2026 07:42:17 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-07</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-07.mp3" type="audio/mpeg" length="3736656"/>
     </item>
   </channel>
 </rss>
