@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Monday, August 24, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 06:39:57 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-24.m4a" type="audio/mp4" length="2249534"/>
+    </item>
+    <item>
       <title>Finance Digest — Sunday, August 23, 2026</title>
       <description>Covering: "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;</description>
       <pubDate>Sun, 23 Aug 2026 06:36:31 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 19 Jun 2026 11:25:34 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-19</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-19.mp3" type="audio/mpeg" length="4092192"/>
-    </item>
-    <item>
-      <title>Finance Digest — Thursday, June 18, 2026</title>
-      <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | CMO" &lt;forbes@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, The Free Press &lt;bariweiss+the-big-read@substack.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 07:52:23 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-18</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-18.mp3" type="audio/mpeg" length="3939552"/>
     </item>
   </channel>
 </rss>
