@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Wednesday, August 26, 2026</title>
+      <description>Covering: "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | CFO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 06:45:13 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-26</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-26.m4a" type="audio/mp4" length="2846280"/>
+    </item>
+    <item>
       <title>Finance Digest — Tuesday, August 25, 2026</title>
       <description>Covering: "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "Forbes | Current Climate" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Tue, 25 Aug 2026 06:43:40 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 21 Jun 2026 10:33:34 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-21</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-21.mp3" type="audio/mpeg" length="4530240"/>
-    </item>
-    <item>
-      <title>Finance Digest — Saturday, June 20, 2026</title>
-      <description>Covering: Matt Levine &lt;noreply@news.bloomberg.com&gt;, ForbesBLK &lt;forbes@email.forbes.com&gt;, CNBC &lt;cnbc@response.cnbc.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 09:10:31 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-20</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-20.mp3" type="audio/mpeg" length="3457584"/>
     </item>
   </channel>
 </rss>
