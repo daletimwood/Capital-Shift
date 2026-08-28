@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Friday, August 28, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, ForbesWomen &lt;women@email.forbes.com&gt;, "Forbes | CIO" &lt;forbes@email.forbes.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 07:33:36 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-28</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-28.m4a" type="audio/mp4" length="2164979"/>
+    </item>
+    <item>
       <title>Finance Digest — Thursday, August 27, 2026</title>
       <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, "Forbes | CMO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | The Prompt" &lt;forbes@email.forbes.com&gt;, "CoinDesk: Policy &amp; Regulation" &lt;events@coindesk.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;</description>
       <pubDate>Thu, 27 Aug 2026 07:17:16 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 23 Jun 2026 07:53:40 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-23</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-23.mp3" type="audio/mpeg" length="5563440"/>
-    </item>
-    <item>
-      <title>Finance Digest — Monday, June 22, 2026</title>
-      <description>Covering: Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, "Forbes | The Prototype" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:53:21 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-22</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-22.mp3" type="audio/mpeg" length="4441104"/>
     </item>
   </channel>
 </rss>
