@@ -11,6 +11,20 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Sunday, August 30, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "Forbes | InnovationRx" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 06:33:56 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-30.m4a" type="audio/mp4" length="1873853"/>
+    </item>
+    <item>
+      <title>Finance Digest — Saturday, August 29, 2026</title>
+      <description>Covering: Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | The Prototype" &lt;forbes@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, ForbesBLK &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 07:47:53 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-08-29</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-29.m4a" type="audio/mp4" length="2519034"/>
+    </item>
+    <item>
       <title>Finance Digest — Friday, August 28, 2026</title>
       <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, ForbesWomen &lt;women@email.forbes.com&gt;, "Forbes | CIO" &lt;forbes@email.forbes.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;</description>
       <pubDate>Fri, 28 Aug 2026 07:33:36 +0100</pubDate>
@@ -415,20 +429,6 @@
       <pubDate>Thu, 25 Jun 2026 07:53:07 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-25</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-25.mp3" type="audio/mpeg" length="4494240"/>
-    </item>
-    <item>
-      <title>Finance Digest — Wednesday, June 24, 2026</title>
-      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Forbes | CFO" &lt;forbes@email.forbes.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "Forbes | The Prompt" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 07:53:41 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-24</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-24.mp3" type="audio/mpeg" length="5591232"/>
-    </item>
-    <item>
-      <title>Finance Digest — Tuesday, June 23, 2026</title>
-      <description>Covering: "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, "Wealth &amp; Finance International Magazine" &lt;newsletter@ai-publishing.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 07:53:40 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-23</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-23.mp3" type="audio/mpeg" length="5563440"/>
     </item>
   </channel>
 </rss>
