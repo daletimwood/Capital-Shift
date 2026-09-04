@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Friday, September 4, 2026</title>
+      <description>Covering: Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, ForbesWomen &lt;women@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | CIO" &lt;forbes@email.forbes.com&gt;, CoinDesk Daybook &lt;newsletters@coindesk.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:43:11 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-09-04</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-04.m4a" type="audio/mp4" length="1484149"/>
+    </item>
+    <item>
       <title>Finance Digest — Thursday, September 3, 2026</title>
       <description>Covering: "Forbes | InnovationRx" &lt;innovationrx@email.forbes.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, CoinDesk Headlines &lt;newsletters@coindesk.com&gt;, "Forbes | CMO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, CoinDesk Daybook &lt;newsletters@coindesk.com&gt;</description>
       <pubDate>Thu, 03 Sep 2026 06:52:32 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 30 Jun 2026 13:43:15 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-06-30</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-30.mp3" type="audio/mpeg" length="3480912"/>
-    </item>
-    <item>
-      <title>Finance Digest — Monday, June 29, 2026</title>
-      <description>Covering: Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 08:22:08 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-06-29</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-06-29.mp3" type="audio/mpeg" length="3727152"/>
     </item>
   </channel>
 </rss>
