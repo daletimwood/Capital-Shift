@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Monday, September 14, 2026</title>
+      <description>Covering: Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 07:19:13 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-09-14</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-14.m4a" type="audio/mp4" length="1748186"/>
+    </item>
+    <item>
       <title>Finance Digest — Sunday, September 13, 2026</title>
       <description>Covering: Business Insider &lt;subscriptions@email.businessinsider.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;</description>
       <pubDate>Sun, 13 Sep 2026 06:30:49 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sat, 11 Jul 2026 11:28:45 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-07-11</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-11.m4a" type="audio/mp4" length="5954669"/>
-    </item>
-    <item>
-      <title>Finance Digest — Friday, July 10, 2026</title>
-      <description>Covering: Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, "Forbes | CIO" &lt;forbes@email.forbes.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 07:09:44 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-07-10</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-10.m4a" type="audio/mp4" length="4655743"/>
     </item>
   </channel>
 </rss>
