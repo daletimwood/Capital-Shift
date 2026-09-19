@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Saturday, September 19, 2026</title>
+      <description>Covering: "Forbes | The Prototype" &lt;forbes@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:34:31 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-09-19</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-19.m4a" type="audio/mp4" length="2317578"/>
+    </item>
+    <item>
       <title>Finance Digest — Friday, September 18, 2026</title>
       <description>Covering: "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Institute for Fiscal Studies &lt;events@news.ifs.org.uk&gt;, CoinDesk Daybook &lt;newsletters@coindesk.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, ForbesWomen &lt;women@email.forbes.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;</description>
       <pubDate>Fri, 18 Sep 2026 14:53:24 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 16 Jul 2026 10:54:34 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-07-16</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-16.m4a" type="audio/mp4" length="2650041"/>
-    </item>
-    <item>
-      <title>Finance Digest — Wednesday, July 15, 2026</title>
-      <description>Covering: John Authers &lt;noreply@news.bloomberg.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 09:13:06 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-07-15</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-15.m4a" type="audio/mp4" length="1977895"/>
     </item>
   </channel>
 </rss>
