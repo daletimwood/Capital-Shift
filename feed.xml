@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Wednesday, September 23, 2026</title>
+      <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Clarity (Hiive)" &lt;noreply@mail.hiive.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;events@news.ifs.org.uk&gt;, "Forbes | The Wiretap" &lt;forbes@email.forbes.com&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 06:36:31 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-09-23</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-23.m4a" type="audio/mp4" length="1894954"/>
+    </item>
+    <item>
       <title>Finance Digest — Tuesday, September 22, 2026</title>
       <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Tue, 22 Sep 2026 07:33:07 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Mon, 20 Jul 2026 07:02:24 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-07-20</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-20.m4a" type="audio/mp4" length="2392352"/>
-    </item>
-    <item>
-      <title>Finance Digest — Sunday, July 19, 2026</title>
-      <description>Covering: "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 06:50:44 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-07-19</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-19.m4a" type="audio/mp4" length="2318921"/>
     </item>
   </channel>
 </rss>
