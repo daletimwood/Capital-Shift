@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Thursday, September 24, 2026</title>
+      <description>Covering: Institute for Fiscal Studies &lt;events@news.ifs.org.uk&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, International Monetary Fund &lt;content@updates.imf.org&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 06:35:50 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-09-24</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-24.m4a" type="audio/mp4" length="1369435"/>
+    </item>
+    <item>
       <title>Finance Digest — Wednesday, September 23, 2026</title>
       <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Clarity (Hiive)" &lt;noreply@mail.hiive.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;events@news.ifs.org.uk&gt;, "Forbes | The Wiretap" &lt;forbes@email.forbes.com&gt;</description>
       <pubDate>Wed, 23 Sep 2026 06:36:31 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 21 Jul 2026 07:12:02 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-07-21</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-21.m4a" type="audio/mp4" length="4444667"/>
-    </item>
-    <item>
-      <title>Finance Digest — Monday, July 20, 2026</title>
-      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 07:02:24 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-07-20</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-20.m4a" type="audio/mp4" length="2392352"/>
     </item>
   </channel>
 </rss>
