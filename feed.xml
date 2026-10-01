@@ -11,6 +11,20 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Thursday, October 1, 2026</title>
+      <description>Covering: "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 06:51:15 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-01</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-01.m4a" type="audio/mp4" length="1942604"/>
+    </item>
+    <item>
+      <title>Finance Digest — Wednesday, September 30, 2026</title>
+      <description>Covering: Matt Levine &lt;noreply@news.bloomberg.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Institute for Fiscal Studies &lt;events@news.ifs.org.uk&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 09:35:58 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-09-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-30.m4a" type="audio/mp4" length="1083408"/>
+    </item>
+    <item>
       <title>Finance Digest — Tuesday, September 29, 2026</title>
       <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Tue, 29 Sep 2026 06:50:38 +0100</pubDate>
@@ -415,20 +429,6 @@
       <pubDate>Tue, 28 Jul 2026 21:43:21 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-07-28</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-28.m4a" type="audio/mp4" length="5125269"/>
-    </item>
-    <item>
-      <title>Finance Digest — Monday, July 27, 2026</title>
-      <description>Covering: Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 07:05:46 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-07-27</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-27.m4a" type="audio/mp4" length="4179513"/>
-    </item>
-    <item>
-      <title>Finance Digest — Sunday, July 26, 2026</title>
-      <description>Covering: Wendy Rockwell from the IU view  &lt;theinternationalunion@substack.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;, "Forbes | Tax Breaks" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 06:58:50 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-07-26</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-07-26.m4a" type="audio/mp4" length="3908197"/>
     </item>
   </channel>
 </rss>
