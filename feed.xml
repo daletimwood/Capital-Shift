@@ -10,13 +10,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
-<item>
-  <title>Special Episode — Who Funds a Failing Bank on Monday Morning?, Friday, October 9, 2026</title>
-  <description>The FSB's peer review of public backstop funding for banks in resolution: solvency vs liquidity, bank runs, moral hazard, and why only four of nineteen jurisdictions are fully compliant.</description>
-  <pubDate>Fri, 09 Oct 2026 12:00:00 +0100</pubDate>
-  <guid isPermaLink="false">finance-special-fsb-backstop-2026-10-09</guid>
-  <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/special-2026-10-09-fsb-backstop.m4a" type="audio/mp4" length="3617471"/>
-</item>
+    <item>
+      <title>Finance Digest — Saturday, October 10, 2026</title>
+      <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 06:42:40 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-10</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-10.m4a" type="audio/mp4" length="1495973"/>
+    </item>
+    <item>
+      <title>Special Episode — Who Funds a Failing Bank on Monday Morning?, Friday, October 9, 2026</title>
+      <description>The FSB's peer review of public backstop funding for banks in resolution: solvency vs liquidity, bank runs, moral hazard, and why only four of nineteen jurisdictions are fully compliant.</description>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0100</pubDate>
+      <guid isPermaLink="false">finance-special-fsb-backstop-2026-10-09</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/special-2026-10-09-fsb-backstop.m4a" type="audio/mp4" length="3617471"/>
+    </item>
     <item>
       <title>Finance Digest — Friday, October 9, 2026</title>
       <description>Covering: Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
@@ -422,20 +429,6 @@
       <pubDate>Tue, 11 Aug 2026 07:18:16 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-08-11</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-11.m4a" type="audio/mp4" length="4550336"/>
-    </item>
-    <item>
-      <title>Finance Digest — Monday, August 10, 2026</title>
-      <description>Covering: John Authers &lt;noreply@news.bloomberg.com&gt;, Colin Donald &lt;Colin.Donald@bailliegifford.info&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 07:07:04 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-10</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-10.m4a" type="audio/mp4" length="4212292"/>
-    </item>
-    <item>
-      <title>Finance Digest — Sunday, August 9, 2026</title>
-      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | Weekly" &lt;forbes@email.forbes.com&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 06:55:54 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-09</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-09.m4a" type="audio/mp4" length="5083363"/>
     </item>
   </channel>
 </rss>
