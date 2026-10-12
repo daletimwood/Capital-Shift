@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Monday, October 12, 2026</title>
+      <description>Covering: Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Collaborative Fund &lt;collabfund@substack.com&gt;</description>
+      <pubDate>Mon, 12 Oct 2026 06:23:09 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-12</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-12.m4a" type="audio/mp4" length="1092565"/>
+    </item>
+    <item>
       <title>Finance Digest — Sunday, October 11, 2026</title>
       <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Sun, 11 Oct 2026 06:32:39 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Thu, 13 Aug 2026 07:11:49 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-08-13</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-13.m4a" type="audio/mp4" length="3669156"/>
-    </item>
-    <item>
-      <title>Finance Digest — Wednesday, August 12, 2026</title>
-      <description>Covering: Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | CFO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, John Authers &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 09:16:32 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-12</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-12.m4a" type="audio/mp4" length="2973374"/>
     </item>
   </channel>
 </rss>
