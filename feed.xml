@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Tuesday, October 13, 2026</title>
+      <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Financial Stability Board &lt;fsb@fsb.org&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:38:24 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-13</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-13.m4a" type="audio/mp4" length="2749191"/>
+    </item>
+    <item>
       <title>Finance Digest — Monday, October 12, 2026</title>
       <description>Covering: Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Collaborative Fund &lt;collabfund@substack.com&gt;</description>
       <pubDate>Mon, 12 Oct 2026 06:23:09 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 14 Aug 2026 07:13:54 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-08-14</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-14.m4a" type="audio/mp4" length="4045857"/>
-    </item>
-    <item>
-      <title>Finance Digest — Thursday, August 13, 2026</title>
-      <description>Covering: "Forbes | CMO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | The Prompt" &lt;forbes@email.forbes.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, "Forbes | InnovationRx" &lt;innovationrx@email.forbes.com&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 07:11:49 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-13</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-13.m4a" type="audio/mp4" length="3669156"/>
     </item>
   </channel>
 </rss>
