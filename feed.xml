@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Thursday, October 22, 2026</title>
+      <description>Covering: Matt Levine &lt;noreply@news.bloomberg.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 06:30:38 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-22</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-22.m4a" type="audio/mp4" length="1609987"/>
+    </item>
+    <item>
       <title>Finance Digest — Wednesday, October 21, 2026</title>
       <description>Covering: John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Wed, 21 Oct 2026 06:33:40 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Tue, 25 Aug 2026 06:43:40 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-08-25</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-25.m4a" type="audio/mp4" length="2817699"/>
-    </item>
-    <item>
-      <title>Finance Digest — Monday, August 24, 2026</title>
-      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Fintech Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 06:39:57 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-24</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-24.m4a" type="audio/mp4" length="2249534"/>
     </item>
   </channel>
 </rss>
