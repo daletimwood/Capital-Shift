@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Friday, October 23, 2026</title>
+      <description>Covering: Business Insider &lt;newsletter@email.businessinsider.com&gt;, Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 06:37:08 +0100</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-23</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-23.m4a" type="audio/mp4" length="2295362"/>
+    </item>
+    <item>
       <title>Finance Digest — Thursday, October 22, 2026</title>
       <description>Covering: Matt Levine &lt;noreply@news.bloomberg.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Thu, 22 Oct 2026 06:30:38 +0100</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 26 Aug 2026 06:45:13 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-08-26</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-26.m4a" type="audio/mp4" length="2846280"/>
-    </item>
-    <item>
-      <title>Finance Digest — Tuesday, August 25, 2026</title>
-      <description>Covering: "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "Forbes | Current Climate" &lt;forbes@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Matt Levine &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:43:40 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-25</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-25.m4a" type="audio/mp4" length="2817699"/>
     </item>
   </channel>
 </rss>
