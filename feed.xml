@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Tuesday, October 27, 2026</title>
+      <description>Covering: "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Matt Levine at Bloomberg Opinion &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 06:33:47 +0000</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-27</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-27.m4a" type="audio/mp4" length="2009745"/>
+    </item>
+    <item>
       <title>Finance Digest — Monday, October 26, 2026</title>
       <description>Covering: Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Mon, 26 Oct 2026 06:28:15 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Sun, 30 Aug 2026 06:33:56 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-08-30</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-30.m4a" type="audio/mp4" length="1873853"/>
-    </item>
-    <item>
-      <title>Finance Digest — Saturday, August 29, 2026</title>
-      <description>Covering: Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Forbes | The Prototype" &lt;forbes@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, ForbesBLK &lt;forbes@email.forbes.com&gt;</description>
-      <pubDate>Sat, 29 Aug 2026 07:47:53 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-08-29</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-08-29.m4a" type="audio/mp4" length="2519034"/>
     </item>
   </channel>
 </rss>
