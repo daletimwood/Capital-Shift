@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Friday, October 30, 2026</title>
+      <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;, Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 06:32:23 +0000</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-10-30</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-10-30.m4a" type="audio/mp4" length="1871472"/>
+    </item>
+    <item>
       <title>Finance Digest — Thursday, October 29, 2026</title>
       <description>Covering: John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Brainfood by Simon Taylor &lt;sytaylor@mail.beehiiv.com&gt;, Matt Levine at Bloomberg Opinion &lt;noreply@news.bloomberg.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Thu, 29 Oct 2026 06:31:32 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 02 Sep 2026 06:49:32 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-09-02</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-02.m4a" type="audio/mp4" length="2818316"/>
-    </item>
-    <item>
-      <title>Finance Digest — Tuesday, September 1, 2026</title>
-      <description>Covering: "CoinDesk: Policy &amp; Regulation" &lt;events@coindesk.com&gt;, "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | CEO" &lt;forbes@email.forbes.com&gt;, CoinDesk Headlines &lt;newsletters@coindesk.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, "Forbes | Current Climate" &lt;forbes@email.forbes.com&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 06:47:56 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-09-01</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-01.m4a" type="audio/mp4" length="2093215"/>
     </item>
   </channel>
 </rss>
