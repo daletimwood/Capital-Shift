@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Friday, November 6, 2026</title>
+      <description>Covering: Institute for Fiscal Studies &lt;updates@news.ifs.org.uk&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Inside/VC" &lt;insidevc@mail.beehiiv.com&gt;, CNBC Disruptors &lt;disruptor50@cnbc.com&gt;, Matt Levine at Bloomberg Opinion &lt;noreply@news.bloomberg.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 06:33:22 +0000</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-11-06</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-11-06.m4a" type="audio/mp4" length="1908692"/>
+    </item>
+    <item>
       <title>Finance Digest — Thursday, November 5, 2026</title>
       <description>Covering: Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, International Monetary Fund &lt;content@updates.imf.org&gt;, "Dan DeFrancesco | BI Today" &lt;newsletter@email.businessinsider.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;</description>
       <pubDate>Thu, 05 Nov 2026 06:28:28 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Wed, 09 Sep 2026 09:49:05 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-09-09</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-09.m4a" type="audio/mp4" length="2764528"/>
-    </item>
-    <item>
-      <title>Finance Digest — Tuesday, September 8, 2026</title>
-      <description>Covering: CNBC Investing Club &lt;cnbcinvestingclub@response.cnbc.com&gt;, John Authers at Bloomberg &lt;noreply@news.bloomberg.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, Baillie Gifford &lt;james.budden@bailliegifford.info&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:40:06 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-09-08</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-08.m4a" type="audio/mp4" length="2457113"/>
     </item>
   </channel>
 </rss>
