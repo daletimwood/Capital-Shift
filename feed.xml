@@ -11,6 +11,13 @@
     <itunes:category text="Business"/>
     <itunes:category text="Investing"/>
     <item>
+      <title>Finance Digest — Sunday, November 8, 2026</title>
+      <description>Covering: Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, "Joi-Marie McKenzie | BI Today" &lt;newsletter@email.businessinsider.com&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 06:26:48 +0000</pubDate>
+      <guid isPermaLink="false">finance-digest-2026-11-08</guid>
+      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-11-08.m4a" type="audio/mp4" length="981284"/>
+    </item>
+    <item>
       <title>Finance Digest — Saturday, November 7, 2026</title>
       <description>Covering: "Dan DeFrancesco | BI Today" &lt;newsletter@email.businessinsider.com&gt;, Matt Levine at Bloomberg Opinion &lt;noreply@news.bloomberg.com&gt;, Bloomberg Politics &lt;noreply@news.bloomberg.com&gt;, "Alistair Barr | AI Insider" &lt;newsletter@email.businessinsider.com&gt;</description>
       <pubDate>Sat, 07 Nov 2026 06:32:29 +0000</pubDate>
@@ -422,13 +429,6 @@
       <pubDate>Fri, 11 Sep 2026 06:48:37 +0100</pubDate>
       <guid isPermaLink="false">finance-digest-2026-09-11</guid>
       <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-11.m4a" type="audio/mp4" length="2998146"/>
-    </item>
-    <item>
-      <title>Finance Digest — Thursday, September 10, 2026</title>
-      <description>Covering: "Forbes | Daily" &lt;dailydozen@email.forbes.com&gt;, "📜 CryptoCodex 📜" &lt;forbes@email.forbes.com&gt;, "CoinDesk: Policy &amp; Regulation" &lt;events@coindesk.com&gt;, M-RCBG &lt;mrcbg@comms.hks.harvard.edu&gt;, CNBC Investing Club &lt;cnbcinvestingclub@response.cnbc.com&gt;, Bloomberg &lt;subscriptions@message.bloomberg.com&gt;, Business Insider &lt;newsletter@email.businessinsider.com&gt;, "Forbes | CMO" &lt;forbes@email.forbes.com&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:48:41 +0100</pubDate>
-      <guid isPermaLink="false">finance-digest-2026-09-10</guid>
-      <enclosure url="https://pub-4f582366954141c791be8307132b3c52.r2.dev/finance/episodes/finance-2026-09-10.m4a" type="audio/mp4" length="3802454"/>
     </item>
   </channel>
 </rss>
